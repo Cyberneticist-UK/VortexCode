@@ -1,0 +1,16 @@
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\VortexWin.exe
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\VortexWin.deps.json
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\VortexWin.runtimeconfig.json
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\VortexWin.runtimeconfig.dev.json
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\VortexWin.dll
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\ref\VortexWin.dll
+G:\VortexCodePublic\VortexWin\bin\Debug\net5.0-windows\VortexWin.pdb
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.csproj.AssemblyReference.cache
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.GeneratedMSBuildEditorConfig.editorconfig
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.AssemblyInfoInputs.cache
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.AssemblyInfo.cs
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.csproj.CoreCompileInputs.cache
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.dll
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\ref\VortexWin.dll
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.pdb
+G:\VortexCodePublic\VortexWin\obj\Debug\net5.0-windows\VortexWin.genruntimeconfig.cache

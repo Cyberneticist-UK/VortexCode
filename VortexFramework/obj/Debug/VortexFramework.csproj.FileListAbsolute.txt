@@ -1,0 +1,6 @@
+G:\VortexCodePublic\VortexFramework\bin\Debug\VortexFramework.dll
+G:\VortexCodePublic\VortexFramework\bin\Debug\VortexFramework.pdb
+G:\VortexCodePublic\VortexFramework\obj\Debug\VortexFramework.csproj.AssemblyReference.cache
+G:\VortexCodePublic\VortexFramework\obj\Debug\VortexFramework.csproj.CoreCompileInputs.cache
+G:\VortexCodePublic\VortexFramework\obj\Debug\VortexFramework.dll
+G:\VortexCodePublic\VortexFramework\obj\Debug\VortexFramework.pdb
