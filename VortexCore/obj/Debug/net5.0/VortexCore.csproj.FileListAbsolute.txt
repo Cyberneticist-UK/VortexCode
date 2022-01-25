@@ -2,7 +2,6 @@ G:\VortexCodePublic\VortexCore\bin\Debug\net5.0\VortexCore.deps.json
 G:\VortexCodePublic\VortexCore\bin\Debug\net5.0\VortexCore.dll
 G:\VortexCodePublic\VortexCore\bin\Debug\net5.0\ref\VortexCore.dll
 G:\VortexCodePublic\VortexCore\bin\Debug\net5.0\VortexCore.pdb
-G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.csproj.AssemblyReference.cache
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.GeneratedMSBuildEditorConfig.editorconfig
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.AssemblyInfoInputs.cache
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.AssemblyInfo.cs
@@ -10,3 +9,4 @@ G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.csproj.CoreCompileInp
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.dll
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\ref\VortexCore.dll
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.pdb
+G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.csproj.AssemblyReference.cache
