@@ -21,7 +21,6 @@ C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\bin\Debug\n
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\bin\Debug\net5.0-windows\VortexWin.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\bin\Debug\net5.0-windows\ref\VortexWin.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\bin\Debug\net5.0-windows\VortexWin.pdb
-C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.csproj.AssemblyReference.cache
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.AssemblyInfoInputs.cache
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.AssemblyInfo.cs
@@ -30,3 +29,4 @@ C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\n
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\ref\VortexWin.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.pdb
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.genruntimeconfig.cache
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexWin\obj\Debug\net5.0-windows\VortexWin.csproj.AssemblyReference.cache

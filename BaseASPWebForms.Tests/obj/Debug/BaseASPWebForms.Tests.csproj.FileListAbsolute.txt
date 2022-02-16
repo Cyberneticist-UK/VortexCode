@@ -34,3 +34,4 @@ C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\BaseASPWebForms.Tests
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\BaseASPWebForms.Tests\obj\Debug\BaseASPWebForms.Tests.csproj.CopyComplete
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\BaseASPWebForms.Tests\obj\Debug\BaseASPWebForms.Tests.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\BaseASPWebForms.Tests\obj\Debug\BaseASPWebForms.Tests.pdb
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\BaseASPWebForms.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll

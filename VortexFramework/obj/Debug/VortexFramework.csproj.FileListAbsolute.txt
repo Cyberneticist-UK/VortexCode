@@ -38,7 +38,6 @@ C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\D
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\MySql.Data.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Buffers.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Memory.dll
-C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\Ubiety.Dns.Core.dll
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\ZstdNet.dll
@@ -48,11 +47,7 @@ C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\D
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\K4os.Compression.LZ4.Streams.xml
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\MySql.Data.xml
-C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Buffers.xml
-C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Memory.xml
-C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\obj\Debug\VortexFramework.csproj.AssemblyReference.cache
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\obj\Debug\VortexFramework.csproj.CoreCompileInputs.cache
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\obj\Debug\VortexFramework.csproj.CopyComplete
 C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexFramework\obj\Debug\VortexFramework.dll

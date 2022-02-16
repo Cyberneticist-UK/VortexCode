@@ -1,4 +1,4 @@
-using MySql.Data.MySqlClient;
+
 using System;
 using System.Data;
 
@@ -9,7 +9,7 @@ namespace Vortex
     /// </summary>
     public class Comms_DatabaseMySQL : Interface_DataConnector
     {
-        protected MySqlDataAdapter DataAdapter;
+       protected MySql.Data.MySqlClient.MySqlDataAdapter DataAdapter;
 
         public string ErrorMessage { get; set; } = "";
         public bool IsBusy { get; set; } = false;
@@ -18,10 +18,10 @@ namespace Vortex
         {
 
             string ConnectionString = @"server="+Server+";userid="+Username+";password="+Password+";database="+Catalogue;
-            DataAdapter = new MySqlDataAdapter();
-            MySqlConnection Connection1 = new MySqlConnection(ConnectionString);
-            this.DataAdapter.SelectCommand = new MySqlCommand("", Connection1);
-            this.DataAdapter.InsertCommand = new MySqlCommand("", Connection1);
+            DataAdapter = new MySql.Data.MySqlClient.MySqlDataAdapter();
+            MySql.Data.MySqlClient.MySqlConnection Connection1 = new MySql.Data.MySqlClient.MySqlConnection(ConnectionString);
+            this.DataAdapter.SelectCommand = new MySql.Data.MySqlClient.MySqlCommand("", Connection1);
+            this.DataAdapter.InsertCommand = new MySql.Data.MySqlClient.MySqlCommand("", Connection1);
         }
 
         public void DataOpen()
