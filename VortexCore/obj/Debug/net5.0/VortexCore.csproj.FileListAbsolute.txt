@@ -10,3 +10,15 @@ G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.dll
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\ref\VortexCore.dll
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.pdb
 G:\VortexCodePublic\VortexCore\obj\Debug\net5.0\VortexCore.csproj.AssemblyReference.cache
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\bin\Debug\net5.0\VortexCore.deps.json
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\bin\Debug\net5.0\VortexCore.dll
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\bin\Debug\net5.0\ref\VortexCore.dll
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\bin\Debug\net5.0\VortexCore.pdb
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.csproj.AssemblyReference.cache
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.AssemblyInfoInputs.cache
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.AssemblyInfo.cs
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.csproj.CoreCompileInputs.cache
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.dll
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\ref\VortexCore.dll
+C:\Users\remit.cl\source\repos\Cyberneticist-UK\VortexCode\VortexCore\obj\Debug\net5.0\VortexCore.pdb

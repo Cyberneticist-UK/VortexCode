@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9BagDkL4DwQ+efuqUDpCmXw8ToqfWfDAEnqzuDPR+cM39pc4aQGNo785Js7HGSi7Jewr4MA+PgfjUln36SUdEQ==",
+  "dgSpecHash": "V9THqtMDw8OGV2kSt0UKrD13abnYWKVUf1q89kK3HYbP21dlcE8om7KIgHWkjMdXABvpMP36Zh7Tv/vArgq6Cw==",
   "success": true,
-  "projectFilePath": "G:\\VortexCodePublic\\BaseCore\\BaseCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\remit.cl\\source\\repos\\Cyberneticist-UK\\VortexCode\\BaseCore\\BaseCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\remit.cl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\remit.cl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\remit.cl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\remit.cl\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
